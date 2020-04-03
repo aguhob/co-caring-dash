@@ -25,6 +25,14 @@ const Dashboard = () => {
 
         <TableauViz vizName='DemographicsDashboard' vizOptions={vizOptions2} />
 
+        <div className={dashboardStyles.spacer} />
+
+        <TableauViz vizName='ProjectionsDashboard' vizOptions={vizOptions2} />
+
+        <div className={dashboardStyles.spacer} />
+
+        <TableauViz vizName='ROCAccelerationDashboard' vizOptions={vizOptions2} />
+
       </div>
     </div>
   )
