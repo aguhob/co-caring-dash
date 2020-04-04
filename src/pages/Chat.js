@@ -9,7 +9,6 @@ const Chat = () => {
   useEffect(() => {
     document.title = '#Co-Caring Chat'
   })
-<div id="fb-root"></div>
   
   return (
     <>
