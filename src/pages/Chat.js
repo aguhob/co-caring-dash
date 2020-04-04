@@ -34,7 +34,7 @@ const Chat = () => {
         </p>
       </TextSection>
 
-      <IFrame source = 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcocaring%2Flearning_content%2F%3Ffilter%3D532557444068356&width=500&show_text=true&height=201&appId" >
+      <IFrame source = 'https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcocaring%2Flearning_content%2F%3Ffilter%3D532557444068356&width=500&show_text=true&height=201&appId' >
       </IFrame>
 
     </>
