@@ -32,6 +32,8 @@ const Chat = () => {
           </a>
         </p>
       </TextSection>
+
+      <div class="fb-page" data-href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637" data-tabs="timeline" data-width="1000" data-height="900" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
     </>
   )
 }
