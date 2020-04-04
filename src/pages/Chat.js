@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import ReactDOM from 'react-dom'
 import TopBanner from '../components/TopBanner';
 import TextSection from '../components/TextSection';
 
@@ -23,10 +22,7 @@ const Component = React.createClass({
 });
 
 const iframe = '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcocaring%2Flearning_content%2F%3Ffilter%3D532557444068356&width=500&show_text=true&height=201&appId" width="500" height="201" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
-ReactDOM.render(
-  <Component iframe={iframe} />,
-  document.getElementById('container')
-);
+
 
 
 
