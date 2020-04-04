@@ -5,22 +5,6 @@ import TextSection from '../components/TextSection';
 import '../styles/global.scss';
 
 
-const Component = React.createClass({
-  iframe: function () {
-    return {
-      __html: this.props.iframe
-    }
-  },
-
-  render: function() {
-    return (
-      <div>
-        <div dangerouslySetInnerHTML={ this.iframe() } />
-      </div>
-    );
-  }
-});
-
 const iframe = '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcocaring%2Flearning_content%2F%3Ffilter%3D532557444068356&width=500&show_text=true&height=201&appId" width="500" height="201" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>'
 
 
