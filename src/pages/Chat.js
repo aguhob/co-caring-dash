@@ -9,10 +9,13 @@ const Chat = () => {
   useEffect(() => {
     document.title = '#Co-Caring Chat'
   })
-
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
+  
   return (
     <>
-      <TopBanner 
+      
+    <TopBanner 
         title = "Chat"
         copy = "Connect with your #Co-Caring community."
         button = {false}
