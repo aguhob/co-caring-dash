@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-
+import ReactDOM from 'react-dom'
 import TopBanner from '../components/TopBanner';
 import TextSection from '../components/TextSection';
 
