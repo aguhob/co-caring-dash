@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Chat from './pages/Chat';
 import Resources from './pages/Resources';
-import LeadershipDashboard from './pages/LeadershipDashboard';
+import Leadership from './pages/Leadership';
 import Error404 from './pages/404';
 
 import Layout, { ScrollUp } from './components/Layout';
@@ -24,7 +24,7 @@ function App() {
           </Route>
           <Route exact path='/resources' component={Resources}/>
           <Route exact path='/about' component={About}/>
-          <Route exact path='/leadershipdashboard' component={LeadershipDashboard}/>
+          <Route exact path='/leadershipdashboard' component={Leadership}/>
           <Route path='*' component={Error404} />
         </Switch>
       </Layout>
