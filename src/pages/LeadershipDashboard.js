@@ -13,9 +13,6 @@ const Home = () => {
   
   return (
     <>
-      <TopBanner 
-        title = "Leadership Dashboard"
-      />
       
       <TextSection>
         <p>Sample Text</p>   
