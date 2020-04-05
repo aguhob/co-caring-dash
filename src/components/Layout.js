@@ -38,7 +38,7 @@ const Header = ({menuActive, toggleMenu}) => (
       >About Us</NavLink>
   
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
-        to = '/leadership'
+        to = '/leadershipdashboard'
       >Leadership</NavLink>
   
   
