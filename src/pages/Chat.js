@@ -33,17 +33,13 @@ const Chat = () => {
 
         </p>
       </TextSection>
-
-      <IFrame title = 'Salesforce / 1BPPE.com partnership to provide PPE equipment' source = 'https://www.facebook.com/groups/cocaring/permalink/221200022531149/' >
-      </IFrame>
-
-      <IFrame title = 'Active U.S. #Co-Caring Projects' source = 'https://www.facebook.com/groups/cocaring/learning_content/?filter=5325574440' >
-      </IFrame>
-
-      <IFrame title = 'Active Online #Co-Caring Projects ' source = 'https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962' >
-      </IFrame>
     
-      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Requests for Support: Needs</a></h4><p>Learn about the different needs people have, and consider starting a co-caring support project..</p></blockquote>
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Requests for Support: Needs</a></h4><p>Learn about the different needs people have, and consider starting a co-caring support project.</p></blockquote>
+      
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active U.S. Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active nationwide in the U.S.</p></blockquote>
+      
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></blockquote>    
+      
       <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
     
