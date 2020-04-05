@@ -38,6 +38,9 @@ const Chat = () => {
       
       <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=532557444068356">Active U.S. Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active nationwide in the U.S.</p></blockquote>
       
+      <IFrame title = "Salesforce / 1BPPE.com partnership to provide PPE equipment" source = 'https://www.facebook.com/groups/cocaring/permalink/221200022531149/' ></IFrame>
+
+    
       <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about online COVID-19 support projects.</p></blockquote>    
       
       <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=6582539016180052">Active New York Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in New York.</p></blockquote>    
