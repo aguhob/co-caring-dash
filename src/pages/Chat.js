@@ -40,6 +40,13 @@ const Chat = () => {
       
       <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></blockquote>    
       
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></blockquote>    
+
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></blockquote>    
+    
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></blockquote>    
+    
+    
       <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
     
