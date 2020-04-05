@@ -34,7 +34,7 @@ const Chat = () => {
         </p>
       </TextSection>
 
-      <IFrame title = 'Requests for Support: Needs' source = 'https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637' >
+      <IFrame title = 'Salesforce / 1BPPE.com partnership to provide PPE equipment' source = 'https://www.facebook.com/groups/cocaring/permalink/221200022531149/' >
       </IFrame>
 
       <IFrame title = 'Active U.S. #Co-Caring Projects' source = 'https://www.facebook.com/groups/cocaring/learning_content/?filter=5325574440' >
