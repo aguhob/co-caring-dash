@@ -18,12 +18,9 @@ const Home = () => {
       />
       
       <TextSection>
-        <p>Sample Text</p>
-        
+        <p>Sample Text</p>   
       </TextSection>
-
-      <TextDivider />
-
+    
       <LeadershipDashboard />
 
     </>
