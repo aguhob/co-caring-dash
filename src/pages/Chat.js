@@ -42,6 +42,9 @@ const Chat = () => {
 
       <IFrame title = 'Active Online #Co-Caring Projects ' source = 'https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962' >
       </IFrame>
+    
+      <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Facebook</a></h4><p>Log into Facebook to start sharing and connecting with your friends, family, and people you know.</p></blockquote>
+      <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
     
     </>
