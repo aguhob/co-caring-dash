@@ -38,8 +38,9 @@ const Chat = () => {
     
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869">Getting Started: Advice & How To</a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their #co-caring for COVID-19 projects launched from idea to reality.</p></div>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221760115808473/"></a></h4><p>Rituals for the Pandemic: A model for getting started</p></blockquote>
+          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218544342796717/"></a></h4><p>NYC Neighbors Gather via NextDoor.</p></blockquote>
 
-        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Requests for Support: Needs</a></h4><p>Learn about the different needs people have, and consider starting a co-caring support project.</p></div>
+    <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Requests for Support: Needs</a></h4><p>Learn about the different needs people have, and consider starting a co-caring support project.</p></div>
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=532557444068356">Active U.S. Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active nationwide in the U.S.</p></div>
 
