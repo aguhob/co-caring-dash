@@ -36,8 +36,12 @@ const Chat = () => {
     
      <TextSection title='Find Co-caring Projects'>
     
-        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869">Getting Started: Advice & How To</a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their #co-caring for COVID-19 projects launched from idea to reality.</p></div>
+        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869">Getting Started: Advice & How To</a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their co-caring for COVID-19 projects launched from idea to reality.</p></div>
 
+        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2803078506487182">Local county data dashboards (supporting Co-Caring)</a></h4><p>Dashboards with resource data (hospitals, number of elderly residents, etc) in conjunction with data on COVID-19 spread.</p></div>
+
+        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=817479075438782">City - State - US Data COVID-19 Dashboards</a></h4><p>Watch COVID-19 data in real time for major cities and nationwide.</p></div>
+    
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=531981410841637">Requests for Support: Needs</a></h4><p>Learn about the different needs people have, and consider starting a co-caring support project.</p></div>
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=532557444068356">Active U.S. Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active nationwide in the U.S.</p></div>
