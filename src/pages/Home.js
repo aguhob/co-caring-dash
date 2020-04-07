@@ -64,9 +64,9 @@ const Home = () => {
           </p>
         {/* </Link> */}
       </div>
+      <Toll />
 
       <Dashboard />
-      <Toll />
     </>
   )
 }
