@@ -19,10 +19,6 @@ const Dashboard = () => {
     <div>
       <div className={dashboardStyles.vizGrid}>
 
-        <TableauViz vizName='ProjectionsDashboard' vizOptions={vizOptions2} />
-
-        <div className={dashboardStyles.spacer} />
-
         <TableauViz vizName='ROCAccelerationDashboard' vizOptions={vizOptions2} />
 
       </div>
