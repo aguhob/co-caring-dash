@@ -5,6 +5,8 @@ import TopBanner from '../components/TopBanner';
 import TextSection from '../components/TextSection';
 import TextDivider from '../components/TextDivider';
 import Dashboard from '../components/Dashboard';
+import Toll from '../components/Toll';
+
 
 const Home = () => {
   useEffect(() => {
@@ -64,7 +66,7 @@ const Home = () => {
       </div>
 
       <Dashboard />
-
+      <Toll />
     </>
   )
 }
