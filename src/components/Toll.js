@@ -21,7 +21,6 @@ const Dashboard = () => {
 
         <TableauViz vizName='ProjectionsDashboard' vizOptions={vizOptions2} />
 
-        <div className={dashboardStyles.spacer} />
       </div>
     </div>
   )
