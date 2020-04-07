@@ -40,12 +40,12 @@ const Chat = () => {
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=532557444068356">Active U.S. Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active nationwide in the U.S.</p></div>
 
-        //<blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222503875734097/"Mutual Aid Disaster Relief: a list of mutual aid resources by country and state or province.</a></blockquote>
-        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221200022531149/"Salesforce and 1BPPE.com partnership to provide PPE equipment</a></h4></blockquote>
-        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222503435734141/"Reach4Help: A map of mutual aid resources with links.</a></h4></blockquote>
-        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222773585707126/"Giving and receiving support for immunocomprised people.</a></h4></blockquote>
-        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219853725999112/"Covid Assist: neighbors helping neighbors through the coronavirus pandemic.</a></h4></blockquote>
-        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219426259375192/"Sponsor an N95 Mask for a COVID Nurse/Doctor in an NYC Hospital</a></h4></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222503875734097/">Mutual Aid Disaster Relief: a list of mutual aid resources by country and state or province></a></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221200022531149/">Salesforce and 1BPPE.com partnership to provide PPE equipment</a></h4></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222503435734141/">Reach4Help: A map of mutual aid resources with links.</a></h4></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222773585707126/">Giving and receiving support for immunocomprised people.</a></h4></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219853725999112/">Covid Assist: neighbors helping neighbors through the coronavirus pandemic.</a></h4></blockquote>
+        <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219426259375192/">Sponsor an N95 Mask for a COVID Nurse/Doctor in an NYC Hospital</a></h4></blockquote>
 
 
 
