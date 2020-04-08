@@ -19,7 +19,7 @@ const Chat = () => {
         imgClass = 'aboutUs'
       />
 
-      <TextSection title='Connect'>
+      <TextSection>
         <p style={{textAlign: 'center', marginTop: '3rem'}}>
           <a href='https://facebook.com/groups/cocaring' target='_blank' rel="noopener noreferrer">
             Facebook
