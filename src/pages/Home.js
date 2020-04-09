@@ -78,7 +78,7 @@ const Home = () => {
       </div>
       <Toll />
       <Dashboard />
-    </>
+    />
   )
 }
 
