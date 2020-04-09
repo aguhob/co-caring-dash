@@ -28,12 +28,12 @@ const Home = () => {
         <p>We are all caregivers and care receivers. As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
         <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
           
-      />
+      /TextSection>
       <TextSection title="How to use the #Co-Caring Dashboard">
              
         <ul>
-            //<p>For COVID-19 info in your state or county: </p>
-            //<p>Scroll down to learn about the COVID-19 tolls and case counts in your state and county, number of hospitals, and size of elderly populations in the area. </p>
+            <p>For COVID-19 info in your state or county: </p>
+            <p>Scroll down to learn about the COVID-19 tolls and case counts in your state and county, number of hospitals, and size of elderly populations in the area. </p>
     
             <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click &nbsp;
               <Link to='/chat'>
@@ -63,7 +63,7 @@ const Home = () => {
 
           </ul>
         
-      />
+      /TextSection>
 
       <TextDivider />
 
