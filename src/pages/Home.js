@@ -53,6 +53,9 @@ const Home = () => {
           </ul>
         
       </TextSection>
+      
+      <TextDivider/>
+  
       <div>
         {/* <Link to='/reddit'> */}
           <p style={{textAlign: 'center'}}>
@@ -62,7 +65,11 @@ const Home = () => {
           </p>
         {/* </Link> */}
       </div>
-      <Toll />
+
+      <TextDivider/>
+
+      <Toll/>
+        
       <Dashboard />
     </>
   )
