@@ -32,13 +32,13 @@ const Home = () => {
       <TextSection title="How to use the #Co-Caring Dashboard">
         <ul>
 
-            <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click &nbsp;
+            <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click&nbsp;
               <Link to='/chat'>
                 Co-Caring Chat
               </Link>
               &nbsp;for advice and to connect with others.
             </li>
-            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place): click &nbsp;
+            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place): click&nbsp;
               <Link to='/resources'>
                 Resources
               </Link>
