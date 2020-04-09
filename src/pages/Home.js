@@ -79,7 +79,7 @@ const Home = () => {
       <Toll />
 
       <Dashboard />
-    </>
+    />
   )
 }
 
