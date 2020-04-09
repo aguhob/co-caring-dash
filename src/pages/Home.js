@@ -24,29 +24,40 @@ const Home = () => {
         imgClass = 'home'
       />
       
-      <TextSection title='Mission Statement'>
+      <TextSection>
         <p>We are all caregivers and care receivers. As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
         <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
           <ul>
-
-            <li>If you’re interested in joining or starting a co-caring project, such as supporting the elderly to shelter in place, click on the&nbsp;
+      />
+      <TextSection title="How to use the #Co-Caring Dashboard">
+             
+            <p>For COVID-19 info in your state or county: </p>
+            <p>Scroll down to learn about the COVID-19 tolls and case counts in your state and county, number of hospitals, and size of elderly populations in the area. </p>
+    
+            <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click &nbsp;
               <Link to='/chat'>
                 Co-Caring Chat
               </Link>
-              &nbsp;to connect with others.
+              &nbsp;for advice and to connect with others.
             </li>
 
-            <li>To support others in getting tested or finding public health department information, or helpful info on sheltering in place, try our&nbsp;
+            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place):&nbsp;
               <Link to='/resources'>
                 Resources
               </Link>
             &nbsp;tab. </li>
+  
+             <li> For detailed COVID-19 information in your state or county:&nbsp;
+              <Link to='/leadership'>
+                Leadership Dashboard
+              </Link>
+            &nbsp;tab. </li>
 
-            <li>To learn the basics on what to do and when, please&nbsp;
+            <li>For more general information and "What to Do, When:"&nbsp;
               <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
                 click here
               </a>
-              &nbsp;for our Coronavirus Tool for helpful information.
+              &nbsp;for more information.
             </li>
 
           </ul>
