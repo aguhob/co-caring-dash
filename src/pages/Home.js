@@ -35,6 +35,8 @@ const Home = () => {
               <p>          </p>       
 
 
+    
+    
             <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click&nbsp;
               <Link to='/chat'>
                 Co-Caring Chat
