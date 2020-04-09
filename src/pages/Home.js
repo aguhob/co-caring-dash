@@ -54,7 +54,7 @@ const Home = () => {
         
       </TextSection>
       
-      <TextDivider/>
+      <TextSection/>
   
       <div>
         {/* <Link to='/reddit'> */}
@@ -66,7 +66,7 @@ const Home = () => {
         {/* </Link> */}
       </div>
 
-      <TextDivider/>
+      <TextSection/>
 
       <Toll/>
         
