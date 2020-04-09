@@ -32,8 +32,8 @@ const Home = () => {
       <TextSection title="How to use the #Co-Caring Dashboard">
              
         <ul>
-            <p>For COVID-19 info in your state or county: </p>
-            <p>Scroll down to learn about the COVID-19 tolls and case counts in your state and county, number of hospitals, and size of elderly populations in the area. </p>
+            //<p>For COVID-19 info in your state or county: </p>
+            //<p>Scroll down to learn about the COVID-19 tolls and case counts in your state and county, number of hospitals, and size of elderly populations in the area. </p>
     
             <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click &nbsp;
               <Link to='/chat'>
