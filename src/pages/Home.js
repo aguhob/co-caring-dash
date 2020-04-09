@@ -25,8 +25,8 @@ const Home = () => {
       />
       
       <TextSection>
-        <p>We are all caregivers and care receivers. As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
-        <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
+        <p>We are all caregivers and care receivers. As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the Co-Caring Dashboard.</p>
+        <p>To use the Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
           
       />
       <TextSection title="How to use the #Co-Caring Dashboard">
@@ -77,9 +77,8 @@ const Home = () => {
         {/* </Link> */}
       </div>
       <Toll />
-
       <Dashboard />
-    />
+    </>
   )
 }
 
