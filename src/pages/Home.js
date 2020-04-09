@@ -62,7 +62,7 @@ const Home = () => {
 
           </ul>
         
-      </TextSection>
+      />
 
       <TextDivider />
 
