@@ -56,7 +56,7 @@ const Chat = () => {
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=155235539083962">Active Online Co-Caring Projects</a></h4><p>Learn about online COVID-19 support projects.</p></div>    
 
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218941629423655/">Coaching for Healthcare Workers.</a></h4><p></p></blockquote>
-          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219087299409088/">Notes for Support (to CV Patients, Healthcare Workers).</a></h4><p>https://www.notesforsupport.org/](https://www.notesforsupport.org/) </p></blockquote>
+          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219087299409088/">Notes for Support (to CV Patients, Healthcare Workers).</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218548009463017/">[US] Resources and advice on self-care from the National Alliance on Mental Illness.</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219306389387179/">Yale's The Science of Well Being</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218653982785753/">Talk to someone: National Domestic Violence Hotline</a></h4><p></p></blockquote>
@@ -68,8 +68,15 @@ const Chat = () => {
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218663842784767/">NYC volunteer projects: NY Cares COVID-19</a></h4><p></p></blockquote>
           
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=841147669726184">Active California Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></div>    
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222511239066694/">Miracle Messages: Connecting homeless COVID-19 patients to families</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221788815805603/">California Health Corps: Volunteer for COVID-19</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221180322533119/">State of California: Identifying COVID-19 Medical Supply Contributions</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/220085399309278/">Meal Assistance for Bay Area Queer Community</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221074889210329/">Project Baseline: Testing info for Bay Area (by Google)</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219114086073076/">SF Bay Area: #TogetherAlone Resource Doc</a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219104876073997/">California: Free Meals for </a></h4><p></p></blockquote>
 
-        
+
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=219990582437381">General Covid-19 Info</a></h4><p>We are curating the best, latest info about coronavirus and COVID-19. Learn here.</p></div>
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=263683064646675">Mutual Aid Networks</a></h4><p>Learn about other organizations, communities, maps and tools who are connecting people to help.</p></div>
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=551804562134697">Relief Funds</a></h4><p>Learn about additional funding available for vulnerable populations and organizations.</p></div>
