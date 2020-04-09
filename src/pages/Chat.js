@@ -57,13 +57,16 @@ const Chat = () => {
 
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218941629423655/">Coaching for Healthcare Workers.</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219087299409088/">Notes for Support (to CV Patients, Healthcare Workers).</a></h4><p>https://www.notesforsupport.org/](https://www.notesforsupport.org/) </p></blockquote>
-          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218548009463017/">[US] Resources and advice on self-care from the National Alliance on Mental Illness.</</a></h4><p></p></blockquote>
+          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218548009463017/">[US] Resources and advice on self-care from the National Alliance on Mental Illness.</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219306389387179/">Yale's The Science of Well Being</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218653982785753/">Talk to someone: National Domestic Violence Hotline</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218668069451011/">Talk to someone: CrisisTextLine.comh</a></h4><p></p></blockquote>
 
-        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=6582539016180052">Active New York Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in New York.</p></div>    
+        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=658253901618005">Active New York Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in New York.</p></div>    
 
+          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221299209187897/">Offer mental health support to NYC COVID Health Workers</a></h4><p></p></blockquote>
+          <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218663842784767/">NYC volunteer projects: NY Cares COVID-19</a></h4><p></p></blockquote>
+          
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=841147669726184">Active California Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></div>    
 
         
