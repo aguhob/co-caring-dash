@@ -32,22 +32,28 @@ const Home = () => {
       <TextSection title="How to use the #Co-Caring Dashboard">
         <ul>
 
-            <li>If you’re interested in joining or starting a co-caring project, such as supporting the elderly to shelter in place, click on the&nbsp;
+            <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click &nbsp;
               <Link to='/chat'>
                 Co-Caring Chat
               </Link>
-              &nbsp;to connect with others.
+              &nbsp;for advice and to connect with others.
             </li>
-            <li>To support others in getting tested or finding public health department information, or helpful info on sheltering in place, try our&nbsp;
+            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place):&nbsp;
               <Link to='/resources'>
                 Resources
               </Link>
             &nbsp;tab. </li>
-            <li>To learn the basics on what to do and when, please&nbsp;
+  
+             <li> For detailed COVID-19 information in your state or county:&nbsp;
+              <Link to='/leadership'>
+                Leadership Dashboard
+              </Link>
+            &nbsp;tab. </li>
+            <li>For more general information and "What to Do, When:"&nbsp;
               <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
                 click here
               </a>
-              &nbsp;for our Coronavirus Tool for helpful information.
+              &nbsp;for more information.
             </li>
           </ul>
         
