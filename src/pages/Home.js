@@ -42,13 +42,13 @@ const Home = () => {
               <Link to='/resources'>
                 Resources
               </Link>
-            &nbsp;tab. </li>
+            //&nbsp;tab. </li>
   
-             <li> For detailed COVID-19 information in your state or county:&nbsp;
-              <Link to='/leadership'>
-                Leadership Dashboard
-              </Link>
-            &nbsp;tab. </li>
+             //<li> For detailed COVID-19 information in your state or county:&nbsp;
+              //<Link to='/leadership'>
+               // Leadership Dashboard
+              //</Link>
+            //&nbsp;tab. </li>
             <li>For more general information and "What to Do, When:"&nbsp;
               <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
                 click here
