@@ -83,7 +83,6 @@ const Home = () => {
       </TextSection>
 
       <Toll/>
-        
       <Dashboard />
     </>
   )
