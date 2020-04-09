@@ -38,18 +38,19 @@ const Home = () => {
               </Link>
               &nbsp;for advice and to connect with others.
             </li>
-            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place):&nbsp;
+            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place): click &nbsp;
               <Link to='/resources'>
                 Resources
               </Link>
-            //&nbsp;tab. </li>
+            /&nbsp;. </li>
   
              //<li> For detailed COVID-19 information in your state or county:&nbsp;
               //<Link to='/leadership'>
                // Leadership Dashboard
               //</Link>
             //&nbsp;tab. </li>
-            <li>For more general information and "What to Do, When:"&nbsp;
+  
+            <li>For more general information and "What to Do, When":&nbsp;
               <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
                 click here
               </a>
@@ -58,7 +59,6 @@ const Home = () => {
           </ul>
         
       </TextSection>
-      <TextDivider />
       <div>
         {/* <Link to='/reddit'> */}
           <p style={{textAlign: 'center'}}>
