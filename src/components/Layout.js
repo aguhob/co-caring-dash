@@ -17,9 +17,9 @@ const Header = ({menuActive, toggleMenu}) => (
         <h1>Co-Caring</h1>
       </Link>
     </div> */}
-
+    
     <MobileBurger menuActive={menuActive} toggleMenu={toggleMenu}/>
-
+    <center>
     <div className={layoutStyles.navLinkContainer}>
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/'
@@ -36,11 +36,10 @@ const Header = ({menuActive, toggleMenu}) => (
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/about'
       >About Us</NavLink>
-  
 
   
-  
     </div>
+    </center>
   </div>
 )
 
