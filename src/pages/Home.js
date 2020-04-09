@@ -31,8 +31,8 @@ const Home = () => {
     
       <TextSection title="How to use the #Co-Caring Dashboard">
         <ul>
-              <p/>
-              <p/>       
+              <p>          </p>
+              <p>          </p>       
 
 
             <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click&nbsp;
@@ -57,8 +57,8 @@ const Home = () => {
       </TextSection>
 
       <TextSection>
-              <p/>
-              <p/>               
+              <p>          </p>
+              <p>          </p>
 
       </TextSection>
                
@@ -73,8 +73,8 @@ const Home = () => {
       </div>
 
       <TextSection>
-              <p/>
-              <p/>               
+              <p>          </p>
+              <p>          </p>
 
       </TextSection>
 
