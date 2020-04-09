@@ -67,7 +67,7 @@ const Chat = () => {
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221299209187897/">Offer mental health support to NYC COVID Health Workers</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/218663842784767/">NYC volunteer projects: NY Cares COVID-19</a></h4><p></p></blockquote>
           
-        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=841147669726184"><center><font size="+1">Active California Co-Caring Projects</a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></div>    
+        <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=841147669726184"><center><font size="+1">Active California Co-Caring Projects</font></center></a></h4><p>Learn about co-caring COVID-19 efforts active in California.</p></div>    
       
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/222511239066694/">Miracle Messages: Connecting homeless COVID-19 patients to families</a></h4><p></p></blockquote>
           <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221788815805603/">California Health Corps: Volunteer for COVID-19</a></h4><p></p></blockquote>
