@@ -42,7 +42,7 @@ const Home = () => {
               <Link to='/resources'>
                 Resources
               </Link>
-            /&nbsp;. </li>
+            &nbsp;. </li>
  
             <li>For more general information and "What to Do, When":&nbsp;
               <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
