@@ -51,11 +51,16 @@ const Home = () => {
               &nbsp;for more information.
             </li>
           </ul>
-        
       </TextSection>
-      
+
+      <TextSection>
+              <p/>
+              <p/>               
+
       <TextSection/>
   
+
+                
       <div>
         {/* <Link to='/reddit'> */}
           <p style={{textAlign: 'center'}}>
@@ -65,6 +70,10 @@ const Home = () => {
           </p>
         {/* </Link> */}
       </div>
+
+      <TextSection>
+              <p/>
+              <p/>               
 
       <TextSection/>
 
