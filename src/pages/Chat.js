@@ -74,7 +74,7 @@ const Chat = () => {
             <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/220085399309278/">Meal Assistance for Bay Area Queer Community</a></h4><p></p></blockquote>
             <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/221074889210329/">Project Baseline: Testing info for Bay Area (by Google)</a></h4><p></p></blockquote>
             <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219114086073076/">SF Bay Area: #TogetherAlone Resource Doc</a></h4><p></p></blockquote>
-            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219104876073997/">California: Free Meals for </a></h4><p></p></blockquote>
+            <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/permalink/219104876073997/">California: Free Meals for Children 18 and Under</a></h4><p></p></blockquote>
 
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=219990582437381">General Covid-19 Info</a></h4><p>We are curating the best, latest info about coronavirus and COVID-19. Learn here.</p></div>
