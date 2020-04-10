@@ -21,11 +21,11 @@ const Home = () => {
         button = {true}
         buttonText = 'Co-Caring Chat'
         buttonUrl = 'https://facebook.com/groups/cocaring'
-        imgClass = 'home'
+        imgClass = 'homepage'
       />
       
       <TextSection title=''>
-        <p><center><font size = "+2">We are all caregivers and care receivers.</font></center></p>
+        <p><center><font size = '+2'>We are all caregivers and care receivers.</font></center></p>
         <p>As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
         <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
       </TextSection>
@@ -34,21 +34,21 @@ const Home = () => {
 
       <TrendingList>
         <TrendingItem 
-          imgClass = 'trending1'
+          imgClass = 'co-caring-chat'
           title = 'Support and Connect'
           copy = 'Start a project or support those in need to shelter in place.'
           url = 'https://confident-perlman-c95a55.netlify.com/chat'
         />
 
         <TrendingItem 
-          imgClass = 'trending2'
+          imgClass = 'resources'
           title = 'Find Resources'
           copy = 'Find testing, public health departments and other information.'
           url = 'https://confident-perlman-c95a55.netlify.com/resources'
         />
 
         <TrendingItem 
-          imgClass = 'trending3'
+          imgClass = 'coronavirus-tool'
           title = 'Learn the Basics'
           copy = 'Use our Coronavirus Tool for helpful basics.'
           url = 'https://medium.com/@vytality/from-vytality-health-a-rapid-response-tool-for-coronavirus-dc7a0a1c1644'
