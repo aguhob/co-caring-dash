@@ -21,7 +21,7 @@ const Home = () => {
         button = {true}
         buttonText = 'Co-Caring Chat'
         buttonUrl = 'https://facebook.com/groups/cocaring'
-        imgClass = 'homepage'
+        imgClass = 'home'
       />
       
       <TextSection title=''>
@@ -57,7 +57,8 @@ const Home = () => {
 
       <Toll/>
       <Dashboard />
-        
+      </>
+
         
    
   )
