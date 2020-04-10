@@ -19,9 +19,9 @@ const Home = () => {
         title = "Co-Caring"
         copy = "We are bringing people together for positive impact in response to the novel coronavirus."
         button = {true}
-        buttonText = 'Co-Caring Chat'
+        buttonText = 'JOIN OUR CO-CARING CHAT'
         buttonUrl = 'https://facebook.com/groups/cocaring'
-        imgClass = 'homepage'
+        imgClass = 'home'
       />
       
       <TextSection title=''>
