@@ -76,14 +76,34 @@ const Home = () => {
       </div>
 
 
-      <TextSection>
-              <p>          </p>
-              <p>          </p>
+<TextSection title="What's Trending"/>
+      <TrendingList>
+        <TrendingItem 
+          imgClass = 'trending1'
+          title = 'Support and Connect'
+          copy = 'Start a project or support those in need to shelter in place.'
+          url = 'https://confident-perlman-c95a55.netlify.com/chat'
+        />
 
-      </TextSection>
+        <TrendingItem 
+          imgClass = 'trending2'
+          title = 'Find Resources'
+          copy = 'Find testing, public health departments and other information.'
+          url = 'https://confident-perlman-c95a55.netlify.com/resources'
+        />
+
+        <TrendingItem 
+          imgClass = 'trending3'
+          title = 'Learn the Basics'
+          copy = 'Use our Coronavirus Tool for helpful basics.'
+          url = 'https://medium.com/@vytality/from-vytality-health-a-rapid-response-tool-for-coronavirus-dc7a0a1c1644'
+        />
+      </TrendingList>
 
       <Toll/>
       <Dashboard />
+        
+        
     </>
   )
 }
