@@ -23,19 +23,20 @@ const Header = ({menuActive, toggleMenu}) => (
     <div className={layoutStyles.navLinkContainer}>
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/'
-      >Dashboard</NavLink>
-          
-      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
-        to = '/chat'
-      >Co-Caring Chat</NavLink>
+      >DASHBOARD</NavLink>
 
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/resources'
-      >Resources</NavLink>
+      >RESOURCES</NavLink>
 
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/about'
-      >About Us</NavLink>
+      >ABOUT US</NavLink>
+  
+            
+      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
+        to = '/chat'
+      >JOIN US</NavLink>
 
   
     </div>
