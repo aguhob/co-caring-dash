@@ -25,44 +25,13 @@ const Home = () => {
       />
       
       <TextSection title=''>
-        <p>We are all caregivers and care receivers. As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
+        <p><center><font size = +2>We are all caregivers and care receivers.</font></center></p>
+        <p>As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</p>
         <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
       </TextSection>
     
       <TextSection title="How to use the #Co-Caring Dashboard">
-        <ul>
-              <p>          </p>
-              <p>          </p>       
 
-
-    
-    
-            <li>To join or start a co-caring project (such as supporting the elderly to shelter in place): click&nbsp;
-              <Link to='/chat'>
-                Co-Caring Chat
-              </Link>
-              &nbsp;for advice and to connect with others.
-            </li>
-            <li> For more detail on health resources (such as public health depts and contact info, or info on sheltering in place): click&nbsp;
-              <Link to='/resources'>
-                Resources
-              </Link>
-            &nbsp;. </li>
- 
-            <li>For more general information and "What to Do, When":&nbsp;
-              <a href='http://bit.ly/coronavirustool' target="_blank" rel="noopener noreferrer">
-                click here
-              </a>
-              &nbsp;for more information.
-            </li>
-          </ul>
-      </TextSection>
-
-      <TextSection>
-              <p>          </p>
-              <p>          </p>
-
-      </TextSection>
            
   
       <div>
