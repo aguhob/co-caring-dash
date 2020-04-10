@@ -30,22 +30,11 @@ const Home = () => {
         <p>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</p>
       </TextSection>
     
-      <TextSection title="How to use the #Co-Caring Dashboard">
+      <TextSection title="TRACKING CORONAVIRUS"/>
 
            
-  
-      <div>
-        {/* <Link to='/reddit'> */}
-          <p style={{textAlign: 'center'}}>
-            <Link to='/chat'>
-              Connect to #co-caring people and projects to slow COVID-19 spread here.
-            </Link>
-          </p>
-        {/* </Link> */}
-      </div>
 
 
-<TextSection title="What's Trending"/>
       <TrendingList>
         <TrendingItem 
           imgClass = 'trending1'
