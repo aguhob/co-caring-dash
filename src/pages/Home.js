@@ -6,7 +6,7 @@ import TextSection from '../components/TextSection';
 import TextDivider from '../components/TextDivider';
 import Dashboard from '../components/Dashboard';
 import Toll from '../components/Toll';
-
+import { TipList, TipItem, TrendingList, TrendingItem } from '../components/ResourcesComponents';
 
 const Home = () => {
   useEffect(() => {
