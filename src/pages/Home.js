@@ -5,6 +5,8 @@ import TopBanner from '../components/TopBanner';
 import TextSection from '../components/TextSection';
 import TextDivider from '../components/TextDivider';
 import Dashboard from '../components/Dashboard';
+import Dashboard from '../components/LeadershipDashboard';
+
 import Toll from '../components/Toll';
 import { TipList, TipItem, TrendingList, TrendingItem } from '../components/ResourcesComponents';
 
