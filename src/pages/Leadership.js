@@ -14,10 +14,8 @@ const Home = () => {
   return (
     <>
       
-      <TopBanner 
-        title = "Leadership Dashboard"
-        button = {false}
-      />
+      <TextSection title='Leadership Dashboard'>
+      </TextSection>
     
       <LeadershipDashboard />
 
