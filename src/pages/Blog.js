@@ -13,8 +13,14 @@ const Home = () => {
   return (
     <>
       
-      <TextSection title='#Co-Caring Blog'>
+      <TextSection title='#The Co-Caring Post'>
+    
+      <p><center>Learn more about how people are co-caring</center></p>
+      <p><center>and what you can do in your community.</center></p>
+
       </TextSection>
+    
+    
     
 
     </>
