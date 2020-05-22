@@ -5,7 +5,8 @@ import TopBanner from '../components/TopBanner';
 import TextSection from '../components/TextSection';
 import TextDivider from '../components/TextDivider';
 import Dashboard from '../components/Dashboard';
-
+import Support from '../images/cristian-newman-CeZypKDceQc-unsplash.jpg'
+import Map from '../images/homepage-map.png'
 import Toll from '../components/Toll';
 import { TipList, TipItem, TrendingList, TrendingItem } from '../components/ResourcesComponents';
 
@@ -26,13 +27,29 @@ const Home = () => {
       />
       
       <TextSection title=''>
+        <p><center><font size = '+2' font color="##2a99ff"><b>OUR MISSION</b></font></center></p>
         <p><center><font size = '+2'><b>We are all caregivers and care receivers.</b></font></center></p>
-        <p><center>As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the #Co-Caring Dashboard.</center></p>
-        <p><center>To use the #Co-Caring Dashboard, please scroll down for information about COVID-19 in your state and county.</center></p>
+        <p><center>As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the <font color="#2894D1"><b>#Co-Caring Dashboard.</b></font></center></p>
       </TextSection>
               
 
+      <TextDivider/>
+      <TextSection title=''>
+        <p><center><font size = '+2' font color="##2a99ff"><b>TRACKING CORONAVIRUS</b></font></center></p>
+      </TextSection>
+      
+      <TextSection title=''>
+        <p><center><img src={Map} alt="map" />
+        </center></p>
+      </TextSection>
 
+        }
+
+    
+      <TextSection title=''>
+        <p><center><font size = '+2' font color="##2a99ff"><b>HOW TO CO-CARE</b></font></center></p>
+      </TextSection>
+      
       <TrendingList>
         <TrendingItem 
           imgClass = 'co-caring-chat'
@@ -55,6 +72,11 @@ const Home = () => {
           url = 'https://medium.com/@vytality/from-vytality-health-a-rapid-response-tool-for-coronavirus-dc7a0a1c1644'
         />
       </TrendingList>
+      
+      
+      <TextSection title=''>
+        <p><center><font size = '+2' font color="#2894D1"><b>Coronavirus in the US: Latest Counts</b></font></center></p>
+      </TextSection>
 
       <Toll/>
       <Dashboard />

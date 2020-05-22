@@ -5,22 +5,35 @@ import { MobileBurger, BurgerMenu } from '../components/BurgerMenu';
 
 // import "../styles/modalmenu.scss"
 import '../styles/burgermenu.scss'
-import vytalityLogo from '../images/vytality-logo.png'
+import vytalityHeart from '../images/vytality-logo.png'
+import vytalityLogo from '../images/vytality-logo-co-caring.png'
 import layoutStyles from "../styles/layout.module.scss";
 
 
 const Header = ({menuActive, toggleMenu}) => (
-  <div className={layoutStyles.header}>
+
+    <div className={layoutStyles.header}>
     
     {/* <div className={layoutStyles.titleContainer}>
       <Link to='/'>
         <h1>Co-Caring</h1>
       </Link>
     </div> */}
-    
+
+
     <MobileBurger menuActive={menuActive} toggleMenu={toggleMenu}/>
     <center>
+
     <div className={layoutStyles.navLinkContainer}>
+      
+      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
+        to = '/'
+      ><img src={vytalityLogo} alt="Logo" /></NavLink>
+
+      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
+        to = '/'
+      >   </NavLink>
+
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/'
       >DASHBOARD</NavLink>
@@ -28,18 +41,11 @@ const Header = ({menuActive, toggleMenu}) => (
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/resources'
       >RESOURCES</NavLink>
-
-      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
-        to = '/blog'
-      >BLOG</NavLink>
   
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/about'
       >ABOUT US</NavLink>
         
-      <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
-        to = '/leadershipdashboard'
-      >LEADERSHIP</NavLink>
   
       <NavLink exact className={layoutStyles.navLink} activeClassName={layoutStyles.navLinkActive}
         to = '/chat'
@@ -58,7 +64,7 @@ const Header = ({menuActive, toggleMenu}) => (
 
 const Footer = () => (
   <div className={layoutStyles.footer}>
-    <img src={vytalityLogo} alt='Vytality logo'/>
+    <img src={vytalityHeart} alt='Vytality logo'/>
     <p>
       <a href='mailto:info@vytality.co'>info@vytality.co</a>
        | 
@@ -78,6 +84,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
+
       <Header menuActive={menuActive} toggleMenu={toggleMenu} />
       {/* margin between banner and first textSection is margin-bottom on .container topbanner.module.scss */}
 

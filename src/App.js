@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-d
 import Home from './pages/Home';
 import About from './pages/About';
 import Chat from './pages/Chat';
+import Blog from './pages/Blog';
 import Resources from './pages/Resources';
 import Leadership from './pages/Leadership';
 import Error404 from './pages/404';
@@ -19,8 +20,8 @@ function App() {
         <Switch>
           <Route exact path='/' component={Home}/>
           <Route exact path='/chat' component={Chat}/>
-          <Route exact path='/reddit'>
-            <Redirect to='/chat'/>
+//          <Route exact path='/reddit'>
+//            <Redirect to='/chat'/>
           </Route>
           <Route exact path='/resources' component={Resources}/>
           <Route exact path='/about' component={About}/>

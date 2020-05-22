@@ -33,7 +33,7 @@
 
 .home {
   @extend .imgContainer;
-  background-image: url('../images/homepage-banner.jpg');
+  background-image: url('../images/dhaya-eddine-bentaleb-CrTVcBoFlxc-unsplash.jpg');
   background-size: 101rem;
   background-position-x: center;
   background-position-y: -21rem;
@@ -125,7 +125,7 @@
   }
 
   .button {
-    background-color: $mockup-blue-regular;
+    background-color: $mockup-blue-textAccent;
     width: 20.375rem;
     height: 3rem;
     border-radius: 2rem;

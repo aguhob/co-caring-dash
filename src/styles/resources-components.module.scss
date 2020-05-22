@@ -79,6 +79,10 @@
       background-size: 660px 436px;
       background-position: -8.3rem;
     }
+      
+
+    }  
+      
   }
   
   @include laptopMedia {
@@ -91,7 +95,8 @@
     margin-top: 71px;
     margin-bottom: 1.5rem;
   }
-}
+
+
 
 .trendingListContainer {
   width: 1259px;
@@ -172,6 +177,27 @@
       background-position: center;
     }
 
+    .co-caring-chat {
+      @extend .trendingImg;
+      background-image: url(../images/cristian-newman-CeZypKDceQc-unsplash.jpg);
+      background-size: 538px 359px;
+      background-position: center;
+    }
+      
+    .resources {
+      @extend .trendingImg;
+      background-image: url(../images/hush-naidoo-yo01Z-9HQAw-unsplash.jpg);
+      background-size: 404px 404px;
+      background-position: center;
+    }
+      
+    .coronavirus-tool {
+      @extend .trendingImg;
+      background-image: url(../images/jon-tyson-GdczycaOnug-unsplash.jpg);
+      background-size: 401px 600.39px;
+      background-position: center;
+    }
+      
     &:hover {
       .trendingImg {
         filter: brightness(1.1);
