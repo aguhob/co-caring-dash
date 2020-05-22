@@ -27,7 +27,7 @@ const Home = () => {
       />
       
       <TextSection title=''>
-        <p><center><font size = '+2' font color="##2a99ff"><b>OUR MISSION</b></font></center></p>
+        <p><center><font size = '0' font color="##2a99ff"><b>OUR MISSION</b></font></center></p>
         <p><center><font size = '+2'><b>We are all caregivers and care receivers.</b></font></center></p>
         <p><center>As private individuals and as organizations, our current situation calls us to both. In response to the ongoing challenge to track the spread of COVID-19 and connect individuals, organizations and communities who want to help, we have created the <font color="#2894D1"><b>#Co-Caring Dashboard.</b></font></center></p>
       </TextSection>
@@ -35,19 +35,20 @@ const Home = () => {
 
       <TextDivider/>
       <TextSection title=''>
-        <p><center><font size = '+2' font color="##2a99ff"><b>TRACKING CORONAVIRUS</b></font></center></p>
+        <p><center><font size = '0' font color="##2a99ff"><b>TRACKING CORONAVIRUS</b></font></center></p>
       </TextSection>
       
-      <TextSection title=''>
-        <p><center><img src={Map} alt="map" />
-        </center></p>
-      </TextSection>
+      <TipList>
+        <TipItem 
+          imgClass = 'Map'
+          title = 'Track COVID-19 in your state and county'
+          copy = ''
+          textSide = 'right'
+        />
+      </TipList>
 
-        }
-
-    
       <TextSection title=''>
-        <p><center><font size = '+2' font color="##2a99ff"><b>HOW TO CO-CARE</b></font></center></p>
+        <p><center><font size = '0' font color="##2a99ff"><b>HOW TO CO-CARE</b></font></center></p>
       </TextSection>
       
       <TrendingList>

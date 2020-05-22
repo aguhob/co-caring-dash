@@ -43,7 +43,7 @@
     .text {
       h4 {
         font-size: 24px;
-        color: $mockup-blue-textAccent;
+        color: $black;
         margin-block-start: 7.5rem;
         margin-block-end: 1rem;
         @include smallerMedia {margin-block-start: 10.74px; font-size: 18px;}
@@ -58,7 +58,15 @@
       @include smallerMedia {grid-area: text;}
     }
 
-    .tip1Exercise {
+    .Map {
+      @extend .imgContainer;
+      background-image: url(../images/homepage-map.png);
+      background-size: 958.76px 639.54px;
+      background-position: -15.6rem -6rem;
+      @include smallerMedia {background-size: 576.71px 384.7px; background-position: -9.6rem}
+    }
+
+      .tip1Exercise {
       @extend .imgContainer;
       background-image: url(../images/resources-tips-1-exercise.jpg);
       background-size: 958.76px 639.54px;
