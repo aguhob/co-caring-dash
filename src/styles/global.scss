@@ -11,6 +11,6 @@ body {
 a {
   text-decoration: none;
   font-weight: bold;
-  color: $mockup-blue-regular;
-  &:hover { color: $mockup-blue-textAccent }
+  color: $mockup-blue-textAccent;
+  &:hover { color: $mockup-blue-regular }
 }

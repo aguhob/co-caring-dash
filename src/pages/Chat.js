@@ -25,17 +25,10 @@ const Chat = () => {
           <a href='https://facebook.com/groups/cocaring' target='_blank' rel="noopener noreferrer">
             Facebook
           </a>
-
-          &nbsp;|&nbsp;
-
-          <a href='https://www.reddit.com/r/vytality/' target='_blank' rel="noopener noreferrer">
-            Reddit
-          </a>
-
         </p>
       </TextSection>
     
-     <TextSection title='Find Co-caring Projects'>
+     <TextSection title='Co-caring Projects'>
     
 
       <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869"><font size="+2">Getting Started: Advice & How To</font></a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their co-caring for COVID-19 projects launched from idea to reality.</p></div>
