@@ -6,7 +6,7 @@ const TopBanner = ({title, copy, button, button2, buttonText, button2Text, butto
   
   const handleClick = event => {
     const button = event.target.style;
-    button.position='absolute'
+    button.position='relative'
     button.top='0.1rem'
     setTimeout(()=>{
       button.top='0';
@@ -16,7 +16,7 @@ const TopBanner = ({title, copy, button, button2, buttonText, button2Text, butto
 
   const handleClick2 = event => {
     const button2 = event.target.style;
-    button2.position='absolute'
+    button2.position='relative'
     button2.top='0.1rem'
     setTimeout(()=>{
       button2.top='0';
