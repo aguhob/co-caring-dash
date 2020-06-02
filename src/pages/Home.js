@@ -41,6 +41,8 @@ const Home = () => {
         <p><center><font size = '0' font color="##2a99ff"><b>TRACKING CORONAVIRUS</b></font></center></p>
       </TextSection>
       
+      &nbsp;
+      
       <TipList>
         <TipItem 
           imgClass = 'Map'

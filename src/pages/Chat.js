@@ -21,18 +21,23 @@ const Chat = () => {
         imgClass = 'aboutUs'
       />
 
-      <TextSection>
+    
+     <TextSection title='Join Us'>
+        <p><center>Consider participating and supporting one of the many projects.
+        </center></p>
+      </TextSection>
+
+    <TextSection>
         <p style={{textAlign: 'center', marginTop: '3rem'}}>
           <a href='https://facebook.com/groups/cocaring' target='_blank' rel="noopener noreferrer">
-            Facebook #Co-Caring Chat: COVID-19 Support 
+            #Co-Caring Chat: COVID-19 Support is on Facebook 
           </a>
         </p>
-      </TextSection>
-    
-     <TextSection title='Projects'>
-    
 
       <TextDivider/>
+
+      &nbsp;
+      
       <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869"><font size="+2">Getting Started: Advice & How To</font></a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their co-caring for COVID-19 projects launched from idea to reality.</p></div>
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2803078506487182"><font size="+2">Local county data dashboards (supporting Co-Caring)</font></a></h4><p>Dashboards with resource data (hospitals, number of elderly residents, etc) in conjunction with data on COVID-19 spread.</p></div>
