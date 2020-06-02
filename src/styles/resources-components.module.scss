@@ -56,7 +56,9 @@
         @include smallerMedia {font-size: 14px;}
       }
       @include smallerMedia {grid-area: text;}
-    }
+    
+      
+      }
 
     .Map {
       @extend .imgContainer;

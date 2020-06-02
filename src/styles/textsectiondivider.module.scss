@@ -39,3 +39,26 @@
   margin: 2.75rem auto 1.75rem;
   @include smallerMedia {margin-bottom: 71px;}
 }
+
+
+  .button {
+    background-color: $mockup-blue-textAccent;
+    width: 12.938rem;
+    height: 3rem;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    
+    border: none;
+    color: white;
+    font-size: medium;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+    cursor: pointer;
+
+    &:hover {
+      background-color: rgb(26, 178, 238);
+      transition: 0.2 ease-in;
+    }
+      
+}

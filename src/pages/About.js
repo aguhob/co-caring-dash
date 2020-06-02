@@ -17,7 +17,7 @@ const About = () => {
     <>
       <TopBanner 
         title = "About Us"
-        copy = "#Co-caring brings people together for greater impact."
+        copy = "Co-caring brings people together for greater impact."
         button = {false}
         imgClass = 'aboutUs'
       />

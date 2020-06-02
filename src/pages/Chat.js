@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import TopBanner from '../components/TopBanner';
+import TextDivider from '../components/TextDivider';
 import TextSection from '../components/TextSection';
 import IFrame from '../components/FacebookFrame';
 import '../styles/global.scss';
@@ -23,14 +24,15 @@ const Chat = () => {
       <TextSection>
         <p style={{textAlign: 'center', marginTop: '3rem'}}>
           <a href='https://facebook.com/groups/cocaring' target='_blank' rel="noopener noreferrer">
-            Facebook
+            Facebook #Co-Caring Chat: COVID-19 Support 
           </a>
         </p>
       </TextSection>
     
-     <TextSection title='Co-caring Projects'>
+     <TextSection title='Projects'>
     
 
+      <TextDivider/>
       <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2668631300033869"><font size="+2">Getting Started: Advice & How To</font></a></h4><p>Useful models and dashboards for getting started with co-caring. Stories on what other people have done to get their co-caring for COVID-19 projects launched from idea to reality.</p></div>
 
         <div class="embedly-card"><h4><a href="https://www.facebook.com/groups/cocaring/learning_content/?filter=2803078506487182"><font size="+2">Local county data dashboards (supporting Co-Caring)</font></a></h4><p>Dashboards with resource data (hospitals, number of elderly residents, etc) in conjunction with data on COVID-19 spread.</p></div>
