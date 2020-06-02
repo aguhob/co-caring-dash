@@ -1,0 +1,12 @@
+{
+  "name": "news-letter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-mailchimp-subscribe": "^2.1.0",
+    "react-scripts": "3.4.1"
+  }
+}

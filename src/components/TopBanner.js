@@ -2,17 +2,28 @@ import React from 'react';
 
 import topBannerStyles from '../styles/topbanner.module.scss';
 
-const TopBanner = ({title, copy, button, imgClass, buttonText, buttonUrl}) => {
+const TopBanner = ({title, copy, button, button2, buttonText, button2Text, buttonUrl, button2Url, imgClass }) => {
   
   const handleClick = event => {
     const button = event.target.style;
-    button.position='relative'
+    button.position='absolute'
     button.top='0.1rem'
     setTimeout(()=>{
       button.top='0';
       window.open(buttonUrl, '_blank');
     },100)
   }
+
+  const handleClick2 = event => {
+    const button2 = event.target.style;
+    button2.position='absolute'
+    button2.top='0.1rem'
+    setTimeout(()=>{
+      button2.top='0';
+      window.open(button2Url, '_blank');
+    },100)
+  }
+  
   
   return (
     <div className={topBannerStyles.container}>
@@ -31,9 +42,21 @@ const TopBanner = ({title, copy, button, imgClass, buttonText, buttonUrl}) => {
           </button>
         : <></>
         }
+      
+        &nbsp;&nbsp;
+      
+        {button2 ? 
+          <button2 className={topBannerStyles.classname}
+            onClick = {handleClick2}
+          >
+            {button2Text}
+          </button2>
+        : <></>
+        }
+      
       </div>
-
     </div>
+    
   )
 }
 
