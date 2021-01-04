@@ -70,7 +70,7 @@ const Footer = () => (
        | 
       <a href='http://vytality.co'>vytality.co</a>
     </p>
-    <p>© 2020 by Peakfoqus LLC</p>
+    <p>© 2021 by Peakfoqus LLC</p>
   </div>
 )
 
